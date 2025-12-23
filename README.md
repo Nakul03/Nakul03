@@ -22,8 +22,8 @@ I’m a **Full-Stack Developer** who loves building things that live on the inte
 
 ### 📊 My GitHub Stats
 ### 📈 My Weekly Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=[YOUR-USERNAME]&theme=github-compact)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=[YOUR-USERNAME]&theme=dark)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakul03&theme=github-compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nakul03&theme=dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul03&layout=compact&theme=radical)
 
 ---
