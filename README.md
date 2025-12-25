@@ -1,6 +1,6 @@
 # Hi there, I'm Nakul 👋
 
-I’m a **Full-Stack Developer** who loves building things that live on the internet. My goal is to bridge the gap between "it works" and "it's a joy to use." 
+I’m a **Backend Engineer | DevOps** who loves building things that live on the internet. My goal is to bridge the gap between "it works" and "it's a joy to use." 
 
 ### ⚡ A Little About Me
 * 🔭 I’m currently contributing to Rocket.chat, AsyncAPI and SugarLabs (GSOC)
@@ -14,9 +14,11 @@ I’m a **Full-Stack Developer** who loves building things that live on the inte
 
 | Category | Tech Stack |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, Express, PostgreSQL, MongoDB |
-| **DevOps/Tools** | Docker, AWS, Git, Vercel |
+| **Frontend** | JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, CSS |
+| **Backend** | JavaScript, TypeScript, Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL, MongoDB |
+| **DevOps/Tools** | Git, GitHub, Docker, AWS (EC2, S3 basics), Vercel |
+| **Auth / Infra (basic)** | JWT, bcrypt, environment variables |
 
 ---
 
