@@ -23,7 +23,6 @@ I’m a **Backend Engineer | DevOps** who loves building things that live on the
 ---
 
 ### 📈 My Weekly Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakul03&theme=github-compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul03&layout=compact&theme=radical)
 
 ---
