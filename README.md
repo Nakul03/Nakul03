@@ -20,12 +20,7 @@ I’m a **Backend Engineer | DevOps** who loves building things that live on the
 | **DevOps/Tools** | Git, GitHub, Docker, AWS (EC2, S3 basics), Vercel |
 | **Auth / Infra (basic)** | JWT, bcrypt, environment variables |
 
----
 
-### 📈 My Weekly Activity
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nakul03&layout=compact&theme=radical)
-
----
 
 
 <!--
